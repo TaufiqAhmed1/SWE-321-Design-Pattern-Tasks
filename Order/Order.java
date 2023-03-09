@@ -1,9 +1,9 @@
-package system;
+package Order;
 
-import system.payment.Cash;
-import system.payment.Check;
-import system.payment.Credit;
-import system.payment.Payment;
+import Order.payment.Cash;
+import Order.payment.Check;
+import Order.payment.Credit;
+import Order.payment.Payment;
 
 import java.util.ArrayList;
 import java.util.Scanner;

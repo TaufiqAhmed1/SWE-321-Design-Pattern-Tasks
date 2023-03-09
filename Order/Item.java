@@ -1,4 +1,4 @@
-package system;
+package Order;
 
 public class Item {
     private double shippingWeight, unitPrice;

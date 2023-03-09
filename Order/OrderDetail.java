@@ -1,4 +1,4 @@
-package system;
+package Order;
 
 public class OrderDetail {
     private double quantity;
